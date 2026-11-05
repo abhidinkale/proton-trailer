@@ -1,7 +1,8 @@
 # ⚡ Proton — Interactive Project Trailer & Preview
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Proton-Clinical%20Intelligence-0ea5e9?style=for-the-badge&logo=shield" alt="Proton Banner" />
+  <a href="https://abhijeetdinkale-arch.github.io/proton-trailer/"><img src="https://img.shields.io/badge/Live%20Trailer-Open%20Demo-0ea5e9?style=for-the-badge&logo=vercel" alt="Live Trailer Demo" /></a>
+  <a href="https://github.com/abhijeetdinkale-arch/proton"><img src="https://img.shields.io/badge/Full%20Repository-proton-10b981?style=for-the-badge&logo=github" alt="Full Repo" /></a>
 </p>
 
 <p align="center">
@@ -9,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://abhijeetdinkale-arch.github.io/proton-trailer/"><img src="https://img.shields.io/badge/GitHub%20Pages-Live%20Preview-0ea5e9?style=flat-square" /></a>
   <a href="https://github.com/abhijeetdinkale-arch/proton"><img src="https://img.shields.io/badge/Full%20Repository-proton-0ea5e9?style=flat-square&logo=github" /></a>
   <img src="https://img.shields.io/badge/FHIR-R4%20Standard-emerald?style=flat-square" />
   <img src="https://img.shields.io/badge/Safety-Clinical%20Guardrails-rose?style=flat-square" />
