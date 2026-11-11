@@ -1,8 +1,8 @@
 # ⚡ Proton — Interactive Project Trailer & Preview
 
 <p align="center">
-  <a href="https://abhijeetdinkale-arch.github.io/proton-trailer/"><img src="https://img.shields.io/badge/Live%20Trailer-Open%20Demo-0ea5e9?style=for-the-badge&logo=vercel" alt="Live Trailer Demo" /></a>
-  <a href="https://github.com/abhijeetdinkale-arch/proton"><img src="https://img.shields.io/badge/Full%20Repository-proton-10b981?style=for-the-badge&logo=github" alt="Full Repo" /></a>
+  <a href="https://abhidinkale.github.io/proton-trailer/"><img src="https://img.shields.io/badge/Live%20Trailer-Open%20Demo-0ea5e9?style=for-the-badge&logo=vercel" alt="Live Trailer Demo" /></a>
+  <a href="https://github.com/abhidinkale/proton"><img src="https://img.shields.io/badge/Full%20Repository-proton-10b981?style=for-the-badge&logo=github" alt="Full Repo" /></a>
 </p>
 
 <p align="center">
@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://abhijeetdinkale-arch.github.io/proton-trailer/"><img src="https://img.shields.io/badge/GitHub%20Pages-Live%20Preview-0ea5e9?style=flat-square" /></a>
-  <a href="https://github.com/abhijeetdinkale-arch/proton"><img src="https://img.shields.io/badge/Full%20Repository-proton-0ea5e9?style=flat-square&logo=github" /></a>
+  <a href="https://abhidinkale.github.io/proton-trailer/"><img src="https://img.shields.io/badge/GitHub%20Pages-Live%20Preview-0ea5e9?style=flat-square" /></a>
+  <a href="https://github.com/abhidinkale/proton"><img src="https://img.shields.io/badge/Full%20Repository-proton-0ea5e9?style=flat-square&logo=github" /></a>
   <img src="https://img.shields.io/badge/FHIR-R4%20Standard-emerald?style=flat-square" />
   <img src="https://img.shields.io/badge/Safety-Clinical%20Guardrails-rose?style=flat-square" />
   <img src="https://img.shields.io/badge/Patient%20App-Android%20Compose-teal?style=flat-square" />
@@ -42,7 +42,7 @@ Experience Proton's ambient transcription, SOAP generation, safety guardrail int
 
 ```bash
 # Clone and run immediately with vanilla Node.js:
-git clone https://github.com/abhijeetdinkale-arch/proton-trailer.git
+git clone https://github.com/abhidinkale/proton-trailer.git
 cd proton-trailer
 node demo.mjs
 ```
@@ -88,7 +88,7 @@ Open [http://localhost:3000](http://localhost:3000) to explore:
 
 Ready to explore the complete source code, backend services, and Android application?
 
-👉 **[Visit the Primary Proton Monorepo on GitHub](https://github.com/abhijeetdinkale-arch/proton)**
+👉 **[Visit the Primary Proton Monorepo on GitHub](https://github.com/abhidinkale/proton)**
 
 Includes:
 * `apps/api`: Express & PostgreSQL / Medplum backend services
@@ -99,5 +99,5 @@ Includes:
 ---
 
 <p align="center">
-  <sub>Built with precision for modern healthcare by <a href="https://github.com/abhijeetdinkale-arch">Abhi Dinkale</a></sub>
+  <sub>Built with precision for modern healthcare by <a href="https://github.com/abhidinkale">Abhi Dinkale</a></sub>
 </p>
